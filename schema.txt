@@ -1,0 +1,12 @@
+[+ reply: <replyid>]
+[+ time: 6h, 13:37]
+[+ mode: local-only, private, unlisted, public]
+[+ media: ./path-to-image.png]
+
+main text of post, blabla
+many lines
+
+etc
+#hashtagyo
+
+--- post separator
